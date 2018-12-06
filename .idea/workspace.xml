@@ -29,7 +29,7 @@
           <entry key="html" value="7" />
           <entry key="jpg" value="3" />
           <entry key="js" value="1" />
-          <entry key="json" value="2" />
+          <entry key="json" value="3" />
           <entry key="png" value="7" />
           <entry key="ts" value="1" />
         </counts>
@@ -39,7 +39,7 @@
           <entry key="CSS" value="4" />
           <entry key="HTML" value="7" />
           <entry key="Image" value="10" />
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -81,12 +81,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Samsole/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="139">
               <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Samsole/angular.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1528" />
           </provider>
         </entry>
       </file>
@@ -278,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542441298786</updated>
       <workItem from="1542441300080" duration="6314000" />
-      <workItem from="1544110439945" duration="3813000" />
+      <workItem from="1544110439945" duration="4185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10127000" />
+    <option name="totallyTimeSpent" value="10499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -303,7 +310,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2780822" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.569863" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -438,9 +445,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Samsole/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="139">
           <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Samsole/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1528" />
       </provider>
     </entry>
   </component>
